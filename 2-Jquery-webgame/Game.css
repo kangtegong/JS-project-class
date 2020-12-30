@@ -1,0 +1,96 @@
+
+
+	body{
+		height:100%;
+		width:100%;
+	}
+
+	.space{	
+		height:100vh;
+		width:100vw;
+		border:1px black solid;
+		margin:auto;
+		position:relative;
+		z-index:1;
+	}
+
+	.screen{
+		background-color:#FACB96;
+		height:75vh;
+		width:75vw;
+		border:2px black solid;
+		margin:auto;
+		margin-top:-95vh;
+		position:relative;
+		z-index:2;
+	}
+	
+	.startbutton{
+		padding: 2vh;
+		background-color:#57DB48;
+		height:50vh;
+		width:30vw;
+		border:2px black solid;
+		border-radius:10px;
+		margin:auto;
+		margin-top:10vh;
+		position:relative;
+		z-index:3;
+	}
+	
+	.center {
+		text-align: center;
+	}
+
+	h1{
+		z-index:1;
+		font-size: 5vmin;
+	}
+
+	h2{
+		z-index:1;
+		font-size: 3vmin;
+	}
+
+	.circle{
+		position:absolute;
+		z-index:3;
+		border:2px black solid;
+	}
+
+	.redcircle{
+		position:absolute;
+		z-index:3;
+		border:2px black solid;
+	}
+
+	#highscores{
+		background-color: #E3DC14;
+		height:70vh;
+		width:30vw;
+		margin:auto;
+		margin-top:-80vh;
+		position: relative;
+		z-index:9;
+		display:none;
+		border:2px black solid;
+	}
+
+	.resetbutton{
+		padding: 2vh;
+		background-color:#57DB48;
+		height:10vh;
+		width:10vw;
+		border:2px black solid;
+		border-radius:10px;
+		margin:auto;
+		margin-top:0px;
+		position:relative;
+		z-index: 10;
+	}
+
+	.timer{
+		margin-top:0px;
+		position:relative;
+		z-index:10;
+	}
