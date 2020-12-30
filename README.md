@@ -4,6 +4,6 @@ goorm edu JS 프로젝트 강의 강의노트 [링크](https://edu.goorm.io/lect
 
 
 ## 참고자료
-- https://www.encodedna.com/javascript/how-to-create-a-simple-crud-application-using-only-javascript.htm
-- https://github.com/nbsteuv/AvoidTheCircles 
-- https://github.com/GoogleChrome/chrome-extensions-samples/tree/master/api/history/showHistory 
+- [1주차](https://www.encodedna.com/javascript/how-to-create-a-simple-crud-application-using-only-javascript.htm)
+- [2주차](https://github.com/nbsteuv/AvoidTheCircles)
+- [4주차](https://github.com/GoogleChrome/chrome-extensions-samples/tree/master/api/history/showHistory)
